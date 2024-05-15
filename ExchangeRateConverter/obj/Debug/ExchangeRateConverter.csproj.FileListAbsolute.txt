@@ -1,0 +1,9 @@
+E:\C# projects\ExchangeRateConverter\ExchangeRateConverter\bin\Debug\ExchangeRateConverter.exe.config
+E:\C# projects\ExchangeRateConverter\ExchangeRateConverter\bin\Debug\ExchangeRateConverter.exe
+E:\C# projects\ExchangeRateConverter\ExchangeRateConverter\bin\Debug\ExchangeRateConverter.pdb
+E:\C# projects\ExchangeRateConverter\ExchangeRateConverter\obj\Debug\ExchangeRateConverter.csprojResolveAssemblyReference.cache
+E:\C# projects\ExchangeRateConverter\ExchangeRateConverter\obj\Debug\ExchangeRateConverter.Form1.resources
+E:\C# projects\ExchangeRateConverter\ExchangeRateConverter\obj\Debug\ExchangeRateConverter.Properties.Resources.resources
+E:\C# projects\ExchangeRateConverter\ExchangeRateConverter\obj\Debug\ExchangeRateConverter.csproj.GenerateResource.Cache
+E:\C# projects\ExchangeRateConverter\ExchangeRateConverter\obj\Debug\ExchangeRateConverter.exe
+E:\C# projects\ExchangeRateConverter\ExchangeRateConverter\obj\Debug\ExchangeRateConverter.pdb
